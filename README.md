@@ -15,13 +15,14 @@ Através deste recurso a Inteligência Artificial analiza textos afim de descobr
 
 ...
 
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/02.png" width=""/> 
+![image](https://github.com/MateusCantanhede/AnaliseDeSentimentos/assets/19481162/42d5b8c8-47ae-44a9-8cf3-9eabe4280df5)
+ 
 ...
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/03.png" width=""/> 
+![image](https://github.com/MateusCantanhede/AnaliseDeSentimentos/assets/19481162/4643c50e-a4a9-48c0-aeff-290e177e4783)
+
 ...
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/04.png" width=""/> 
-...
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/05.png" width="1000"/> 
+![image](https://github.com/MateusCantanhede/AnaliseDeSentimentos/assets/19481162/cfda3d6f-135a-412f-b440-da7f30fce00a)
+ 
 ...  
 
 ## Considerações Finais  
